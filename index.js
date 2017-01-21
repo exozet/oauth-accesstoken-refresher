@@ -15,7 +15,7 @@ var grant = new Grant({
       "callback": "/handle/now/callback",
       "oauth": 2,
       "state": true,
-      "redirect_url": process.env.OAUTH_REDIRECT_URI,
+      "redirect_uri": process.env.OAUTH_REDIRECT_URI,
       "authorize_url": process.env.OAUTH_AUTHORIZED_URL,
       "access_url": process.env.OAUTH_ACCESS_URL,
       "scope": process.env.OAUTH_SCOPE.split(" ").join(" ")
