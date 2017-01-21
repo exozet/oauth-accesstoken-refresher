@@ -8,6 +8,13 @@ This is a simple webservice, which:
 2. makes a current `access_token` available with basic auth credentials
 3. refreshs the `access_token` as soon as it's expired
 
+## Install
+
+``` console
+$ git clone https://github.com/exozet/oauth-accesstoken-refresher.git
+$ cd oauth-accesstoken-refresher
+```
+
 ## Usage
 
 Set the required environment variables (e.g. create a `.env` file with the following contents):
