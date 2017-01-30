@@ -1,6 +1,6 @@
 # oauth-accesstoken-refresher
 
-* Latest Release: [![GitHub version](https://badge.fury.io/gh/exozet%2Foauth-accesstoken-refresher.png)](https://github.com/exozet/oauth-accesstoken-refresher/releases)
+Latest Release: [![GitHub version](https://badge.fury.io/gh/exozet%2Foauth-accesstoken-refresher.png)](https://github.com/exozet/oauth-accesstoken-refresher/releases)
 
 This is a simple webservice, which:
 
